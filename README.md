@@ -1,4 +1,4 @@
-# adobefirefly-downloader
+# Adobe-Firefly-Downloader
 
 ### This script **CLEARLY** breaks [Adobe's Generative AI User Guidelines](https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html). Learn more about [Content Credentials here](https://www.adobe.com/go/CAI-HelpX-GenerativeAI-ContentCredentials). <br/>🛑 You have been warned 🛑
 
